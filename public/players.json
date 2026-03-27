@@ -1,7 +1,7 @@
 [
   {
     "player_id": 1,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co/nMpLF79w/1696748634550-Shakib-Al-Hasan.jpg",
     "player_name": "Shakib Al Hasan",
     "player_country": "Bangladesh",
     "flag": "https://flagcdn.com/w320/bd.png",
@@ -9,7 +9,7 @@
     "rating": 9.5,
     "batting_style": "Left-hand bat",
     "bowling_style": "Slow left-arm orthodox",
-    "price": "$200,000"
+    "price": 200000
   },
   {
     "player_id": 2,
@@ -21,7 +21,7 @@
     "rating": 8.8,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$150,000"
+    "price": 150000
   },
   {
     "player_id": 3,
@@ -33,7 +33,7 @@
     "rating": 9.2,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm fast",
-    "price": "$180,000"
+    "price": 180000
   },
   {
     "player_id": 4,
@@ -45,7 +45,7 @@
     "rating": 8.9,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak",
-    "price": "$170,000"
+    "price": 170000
   },
   {
     "player_id": 5,
@@ -57,7 +57,7 @@
     "rating": 9.0,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$160,000"
+    "price": 160000
   },
   {
     "player_id": 6,
@@ -69,11 +69,11 @@
     "rating": 8.5,
     "batting_style": "Right-hand bat",
     "bowling_style": "None",
-    "price": "$120,000"
+    "price": 120000
   },
   {
     "player_id": 7,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co/1JJvmwYt/gettyimages-2155156903-612x612.jpg",
     "player_name": "Rashid Khan",
     "player_country": "Afghanistan",
     "flag": "https://flagcdn.com/w320/af.png",
@@ -81,11 +81,11 @@
     "rating": 9.3,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm legbreak googly",
-    "price": "$190,000"
+    "price": 190000
   },
   {
     "player_id": 8,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co.com/GfswSH83/images.webp",
     "player_name": "Mustafizur Rahman",
     "player_country": "Bangladesh",
     "flag": "https://flagcdn.com/w320/bd.png",
@@ -93,11 +93,11 @@
     "rating": 8.7,
     "batting_style": "Left-hand bat",
     "bowling_style": "Left-arm fast-medium",
-    "price": "$140,000"
+    "price": 140000
   },
   {
     "player_id": 9,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co.com/XZ43Bkk5/DAVID-MILLER-15704846295.jpg",
     "player_name": "David Miller",
     "player_country": "South Africa",
     "flag": "https://flagcdn.com/w320/za.png",
@@ -105,11 +105,11 @@
     "rating": 8.6,
     "batting_style": "Left-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$155,000"
+    "price": 155000
   },
   {
     "player_id": 10,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co.com/MkBf5CbK/images-1.webp",
     "player_name": "Alex Hales",
     "player_country": "England",
     "flag": "https://flagcdn.com/w320/gb.png",
@@ -117,11 +117,11 @@
     "rating": 8.4,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm medium",
-    "price": "$145,000"
+    "price": 145000
   },
   {
     "player_id": 11,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co.com/65Bqg4Q/images-2.webp",
     "player_name": "Mahmudullah",
     "player_country": "Bangladesh",
     "flag": "https://flagcdn.com/w320/bd.png",
@@ -129,11 +129,11 @@
     "rating": 8.3,
     "batting_style": "Right-hand bat",
     "bowling_style": "Right-arm offbreak",
-    "price": "$130,000"
+    "price": 130000
   },
   {
     "player_id": 12,
-    "player_image": "https://i.ibb.co/wrK1H7km/gettyimages-1711546167-612x612.jpg",
+    "player_image": "https://i.ibb.co.com/Y4Wt0w3X/licensed-image.webp",
     "player_name": "Quinton de Kock",
     "player_country": "South Africa",
     "flag": "https://flagcdn.com/w320/za.png",
@@ -141,6 +141,6 @@
     "rating": 9.1,
     "batting_style": "Left-hand bat",
     "bowling_style": "None",
-    "price": "$175,000"
+    "price": 175000
   }
 ]
